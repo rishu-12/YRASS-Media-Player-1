@@ -12,6 +12,6 @@ Double click the executable - student.jar file or open the project in netbeans i
 # Developers
 * Arindam Das Modak [arindam-modak](https://github.com/arindam-modak)
 * Yashwardhan Gupta [yash-1998](https://github.com/yash-1998)
-* Rishab Agarwal
+* Rishab Agarwal[rishu-12](https://github.com/rishu-12)
 * Shiv Kumar
 * Saurabh Mishra
